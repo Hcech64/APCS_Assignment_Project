@@ -2,6 +2,16 @@ import java.util.*;
 
 
 public class Example{
+
+    public static int[] boardMaker(int size, double difficulty) {
+        int[][] grid = new int[size][size];
+        int[][] visible = new int[size][size];
+        int[][] hidden = new int[size][size];
+
+        for (int x = 0; x < grid.length; x++) {
+            for (int y = 0; y < grid[x].length; y++)
+        }
+    }
     public static void main(String[] args) {
         // Welome to this AP Computer science assignment. In this assignment, you will use you kowledge of arrays and 2d arrays in order to constuct a minesweeper game
         // import keyboard handler
@@ -48,4 +58,3 @@ public class Example{
 
 
 }
-
