@@ -19,11 +19,6 @@ public class Minesweeperboard {
 
     
 
-
-
-
-
-
     window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     window.setVisible(true);
   
