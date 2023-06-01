@@ -1,0 +1,32 @@
+ASSIGNMENT DETAILS
+Use knowledge of Java coding language to create a minesweeper game. The game must use a coordinate system and use 2D arrays to create and navigate the board. Users should input the coordinates to reveal. Hidden tiles should be marked with an X and revealed tiles should show a number. Bombs are represented by a -1. If a tile is revealed it should have a number signifying how many bombs are in a 3X3 area surrounding it.
+
+
+
+
+MCQs
+
+1) 2d arrays are arrays that store:
+    a) Ints
+    b) Arrays
+    c) Strings
+    d) Booleans
+
+
+2) How many elements does this array have: Array[10][5]
+    a) 10
+    b) 50
+    c) 35
+    d) 15
+
+Ruberic
+
+100pts total
+
+10 - code runs and executes without error
+15 - code is formatted properly and has correctly uses comments to dictate what things do
+20 - made proper use of 2d arrays
+20 - the game is playable and asks for user input
+30 - bomb placement is random
+10 (EXTRA) - asks user for difficulty that dictates the number of bombs on the field
+5 (EXTRA) - asks user for size that dictates the size of the field
