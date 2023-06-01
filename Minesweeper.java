@@ -138,7 +138,7 @@ public class Minesweeper{
         return hidden2;
     }
 
-    //create an array of all the spaces around a coord
+    //create an small array of all the spaces around a coord
     public static int[][] AroundTile(int[][] hidden, int x, int y){
 
         int size = hidden.length -1;
