@@ -1,5 +1,5 @@
 ASSIGNMENT DETAILS
-Use knowledge of Java coding language to create a minesweeper game. The game must use a coordinate system and use 2D arrays to create and navigate the board. Users should input the coordinates to reveal. Hidden tiles should be marked with an X and revealed tiles should show a number. Bombs are represented by a -1. If a tile is revealed it should have a number signifying how many bombs are in a 3X3 area surrounding it.
+Use knowledge of Java coding language to create a minesweeper game (playable at https://www.google.com/search?q=minesweeper). The game must use a coordinate system and use 2D arrays to create and navigate the board. Users should input the coordinates to reveal. Hidden tiles should be marked with an X and revealed tiles should show a number. Bombs are represented by a -1. If a tile is revealed it should have a number signifying how many bombs are in a 3X3 area surrounding it.
 
 
 
