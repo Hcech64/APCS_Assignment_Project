@@ -24,9 +24,10 @@ Ruberic
 100pts total
 
 10 - code runs and executes without error
-15 - code is formatted properly and has correctly uses comments to dictate what things do
+5 - code is formatted properly and has correctly uses comments to dictate what things do
 20 - made proper use of 2d arrays
 20 - the game is playable and asks for user input
 30 - bomb placement is random
+10 - code detects when player has won or lost and displays the result
 10 (EXTRA) - asks user for difficulty that dictates the number of bombs on the field
 5 (EXTRA) - asks user for size that dictates the size of the field
